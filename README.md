@@ -1,5 +1,6 @@
 # `supply-chain-diagram`
-![image](https://user-images.githubusercontent.com/52806204/177690942-89ecc2c2-5ee1-471b-9c71-c689b0f10d2b.png)
+![image](https://user-images.githubusercontent.com/52806204/177692131-c88843b2-685d-4884-90da-68de305c9bd2.png)
+
 
 # `production-cost-diagram`
 
