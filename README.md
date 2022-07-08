@@ -1,3 +1,7 @@
+# `multi-sig-transaction`
+![image](https://user-images.githubusercontent.com/52806204/177921648-28ce94d0-c102-4262-b004-3330b33a367f.png)
+
+
 # `supply-chain-diagram`
 ![image](https://user-images.githubusercontent.com/52806204/177692131-c88843b2-685d-4884-90da-68de305c9bd2.png)
 
