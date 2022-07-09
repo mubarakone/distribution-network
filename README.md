@@ -11,6 +11,6 @@
 ![image](https://user-images.githubusercontent.com/52806204/177474432-c7ef3faa-a404-4146-aaad-75fe956ac4b8.png)
 
 # `delivery-routes`
-![image](https://user-images.githubusercontent.com/52806204/178089448-ef627c3e-26cc-4315-af39-1a178c11ec9a.png)
+![image](https://user-images.githubusercontent.com/52806204/178093053-c4522d56-dc90-4d86-b3af-66aa89d7c631.png)
 
 
