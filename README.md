@@ -1,5 +1,5 @@
 # Distribution Network Flowcharts & Diagrams
-- # `distribution-marketplace-ui`
+- # `distribution-marketplace`
 ![image](https://user-images.githubusercontent.com/52806204/178394824-f3a4b6cd-3a0f-4f40-bd96-ac4aa6313e22.png)
   - ### `distribution-feed`
   - ![image](https://user-images.githubusercontent.com/52806204/183009241-651ab275-6e60-4c1e-a0d2-8db1741eeea8.png)
